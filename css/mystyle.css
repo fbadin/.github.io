@@ -1,0 +1,8 @@
+/* if the browser has more than 768 */
+@media (min-width: 769px) {
+  .bg-dark-label{
+    background-color: #333;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
